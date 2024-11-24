@@ -1,0 +1,5 @@
+python-dotenv
+python-nmap
+openai
+requests
+argparse
