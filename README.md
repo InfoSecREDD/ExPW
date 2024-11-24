@@ -42,7 +42,7 @@ The (Ex)ploitDB PoC Writer is a powerful Python-based tool designed for security
 **Usage**
 Run the script using the following command structure:
 ```
-python3 exploitdb_poc_writer.py target_ip [--ports PORTS] [--protocol PROTOCOL] [--skipports SKIPPORTS]
+python3 expw.py target_ip [--ports PORTS] [--protocol PROTOCOL] [--skipports SKIPPORTS]
 ```
 
 **Arguments:**
