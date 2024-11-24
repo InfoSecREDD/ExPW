@@ -2,7 +2,6 @@
 
 ## **(Ex)ploitDB PoC Writer**
 
-**Description**
 The (Ex)ploitDB PoC Writer is a powerful Python-based tool designed for security professionals and enthusiasts. It combines port scanning, exploit searching, and payload generation into a seamless workflow. Leveraging Nmap for network scanning, SearchSploit for exploit discovery, and OpenAI's GPT-4 for rewriting exploit code, this tool streamlines the process of identifying vulnerabilities and creating proof-of-concept (PoC) payloads.
 
 **Features**
